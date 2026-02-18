@@ -27,6 +27,26 @@
 
 ---
 
+## 🛠 Technical Skills  
+
+### Frontend Development  
+- HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- React.js, Next.js  
+- Vue.js, Nuxt.js  
+- React Native  
+
+### UI & Styling  
+- Tailwind CSS  
+- Responsive & Mobile-First Design  
+- UI/UX Prototyping with Figma  
+
+### Tools & Workflow  
+- Git & GitHub  
+- REST API Integration  
+- Component-Driven Development  
+
+---
+
 ## 🌱 I'm Learning
 - Advanced **TypeScript** patterns and best practices  
 - Modern **React** architecture and performance optimization  
