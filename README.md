@@ -1,23 +1,50 @@
-<h1 align="center">Hi 👋, I'm Navod</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+# 👋 Hi, I'm Navod Kalhara
+🎓 Senior Frontend Developer | University of Moratuwa  
+🚀 Passionate about UI/UX design, building meaningful projects, and bringing ideas to life  
+💡 Always learning, creating, and exploring new possibilities ✨  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navod1997&label=Profile%20views&color=0e75b6&style=flat" alt="navod1997" /> </p>
+---
 
-- 🔭 I’m currently working on **projects**
+## 💻 Technologies & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-- 🌱 I’m currently learning **react**
+---
 
-- 💬 Ask me about **react**
+## 🔭 Current Projects
+- Developing **Next.js** and **Nuxt.js** applications for modern web experiences 🌐  
+- Experimenting with UI/UX concepts in **React** and **Vue.js** projects ✨  
+- Building responsive and interactive web apps with **TailwindCSS** and **Figma** 🎨  
 
-- 📫 How to reach me **navodkalhara0@gmail.com**
+---
 
-- ⚡ Fun fact **NK**
+## 🌱 I'm Learning
+- Advanced **TypeScript** patterns and best practices  
+- Modern **React** architecture and performance optimization  
+- Progressive web apps (PWA) and mobile-first design  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navod-kalhara/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Navod1997)
+
+---
+
+## ⚡ Fun Fact
+“Code is like humor. When you have to explain it, it’s bad.” 😄  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Navod1997&show_icons=true&theme=radical&count_private=true" alt="Navod's GitHub Stats" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navod1997&" alt="navod1997" /></p>
