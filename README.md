@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Navod Kalhara
-🎓 Senior Frontend Developer | University of Moratuwa  
+🎓 Senior Developer | University of Moratuwa  
 🚀 Passionate about UI/UX design, building meaningful projects, and bringing ideas to life  
 💡 Always learning, creating, and exploring new possibilities ✨  
 
