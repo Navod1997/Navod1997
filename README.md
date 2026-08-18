@@ -1,70 +1,227 @@
 # 👋 Hi, I'm Navod Kalhara
-🎓 Senior Developer | University of Moratuwa  
-🚀 Passionate about UI/UX design, building meaningful projects, and bringing ideas to life  
-💡 Always learning, creating, and exploring new possibilities ✨  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Senior+Software+Developer;Full+Stack+Developer;UI%2FUX+Enthusiast;React+%7C+Vue+%7C+.NET+%7C+Node.js;Always+Building+%7C+Always+Learning" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Navod1997">
+    <img src="https://komarev.com/ghpvc/?username=Navod1997&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/Navod1997?tab=followers">
+    <img src="https://img.shields.io/github/followers/Navod1997?label=Followers&style=flat" />
+  </a>
+</p>
 
 ---
 
-## 💻 Technologies & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+## 🚀 About Me
+
+💻 **Senior Software Developer** passionate about building scalable and user-friendly applications.
+
+🎨 I enjoy combining **clean code, modern UI/UX, and solid backend architecture** to turn ideas into real-world products.
+
+⚡ Experienced in developing **full-stack web applications, REST APIs, database-driven systems, and production deployments**.
+
+🌱 Constantly exploring new technologies, improving architecture, and learning better ways to build software.
+
+> 💡 *"Great software is built with clean code, thoughtful design, and continuous learning."*
 
 ---
 
-## 🔭 Current Projects
-- Developing **Next.js** and **Nuxt.js** applications for modern web experiences 🌐  
-- Experimenting with UI/UX concepts in **React** and **Vue.js** projects ✨  
-- Building responsive and interactive web apps with **TailwindCSS** and **Figma** 🎨  
+## 🧑‍💻 Tech Stack
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### 🛠️ Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker,linux,figma" />
+</p>
 
 ---
 
-## 🛠 Technical Skills  
+## 💻 Technical Skills
 
-### Frontend Development  
-- HTML5, CSS3, JavaScript (ES6+), TypeScript  
-- React.js, Next.js  
-- Vue.js, Nuxt.js  
-- React Native  
-
-### UI & Styling  
-- Tailwind CSS  
-- Responsive & Mobile-First Design  
-- UI/UX Prototyping with Figma  
-
-### Tools & Workflow  
-- Git & GitHub  
-- REST API Integration  
-- Component-Driven Development  
-
----
-
-## 🌱 I'm Learning
-- Advanced **TypeScript** patterns and best practices  
-- Modern **React** architecture and performance optimization  
-- Progressive web apps (PWA) and mobile-first design  
+| Area               | Technologies                                      |
+| ------------------ | ------------------------------------------------- |
+| **Languages**      | C#, JavaScript, TypeScript, SQL                   |
+| **Frontend**       | React.js, Next.js, Vue.js, Nuxt.js, HTML5, CSS3   |
+| **Backend**        | ASP.NET Core Web API, Node.js, Express.js         |
+| **Database**       | Microsoft SQL Server, PostgreSQL                  |
+| **ORM**            | Entity Framework Core, LINQ                       |
+| **API**            | REST APIs, Axios, Swagger / OpenAPI               |
+| **Authentication** | JWT, Authorization, Cookies                       |
+| **UI / UX**        | Figma, Tailwind CSS, Bootstrap, Responsive Design |
+| **DevOps**         | IIS, PM2, Deployment, Production Troubleshooting  |
+| **Logging**        | Serilog, Application Monitoring                   |
+| **Architecture**   | MVC, Dependency Injection, Service Architecture   |
+| **Tools**          | Git, GitHub, Visual Studio, VS Code, Postman      |
 
 ---
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navod-kalhara/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Navod1997)
+## 🔥 What I Build
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   🎨 Modern UI/UX                                   │
+│        ↓                                            │
+│   ⚛️ React / Vue / Next / Nuxt                     │
+│        ↓                                            │
+│   🔗 RESTful APIs                                   │
+│        ↓                                            │
+│   ⚙️ .NET / Node.js                                │
+│        ↓                                            │
+│   🗄️ SQL Server / PostgreSQL                        │
+│        ↓                                            │
+│   🚀 Production Deployment                          │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+### 🚀 Areas I Work With
+
+* 🌐 Full-Stack Web Applications
+* ⚛️ React & Vue Applications
+* 🔧 ASP.NET Core Web APIs
+* 🟢 Node.js Backend Systems
+* 🗄️ Database-Driven Applications
+* 🔐 Authentication & Authorization
+* 📡 REST API Integration
+* 📁 File Upload & Document Management
+* 📊 Admin Dashboards & Data Tables
+* 🚀 Production Deployment & Troubleshooting
+* 🎨 UI/UX Design & Prototyping
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Navod1997&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navod1997&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🐍 Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Navod1997/Navod1997/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Navod1997&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+```javascript
+const currentlyLearning = {
+  architecture: [
+    "Clean Architecture",
+    "Scalable Backend Design",
+    "System Design"
+  ],
+
+  frontend: [
+    "Advanced TypeScript",
+    "React Performance",
+    "Modern Next.js"
+  ],
+
+  backend: [
+    "Advanced ASP.NET Core",
+    "API Optimization",
+    "Microservices"
+  ],
+
+  devops: [
+    "Docker",
+    "CI/CD",
+    "Cloud Deployment"
+  ]
+};
+```
+
+---
+
+## 📊 Developer Mindset
+
+```text
+              💡 IDEA
+                │
+                ▼
+          🎨 DESIGN
+                │
+                ▼
+          👨‍💻 DEVELOPMENT
+                │
+                ▼
+           🧪 TESTING
+                │
+                ▼
+           🚀 DEPLOY
+                │
+                ▼
+          📈 IMPROVEMENT
+                │
+                └──────────────► 🔁
+```
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/navod-kalhara/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Navod1997">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-“Code is like humor. When you have to explain it, it’s bad.” 😄  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=F7DF1E&center=true&vCenter=true&width=600&lines=Code+%E2%86%92+Debug+%E2%86%92+Fix+%E2%86%92+Deploy+%F0%9F%9A%80;Coffee+%E2%98%95+%2B+Code+%F0%9F%92%BB+%3D+Productivity;Keep+Learning.+Keep+Building.+Keep+Growing." />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navod1997&show_icons=true&theme=radical&count_private=true" alt="Navod's GitHub Stats" />
+  ⭐ <b>If you like my projects, consider giving them a star!</b> ⭐
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
 </p>
